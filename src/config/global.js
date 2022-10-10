@@ -4,8 +4,46 @@ export default {
       'Fundamentos de la estructura, cargos y perfiles de la organización',
     descripcionCurso:
       'El análisis de cargos dentro de una compañía pretende determinar los requisitos que la empresa requiere en la cualificación, las responsabilidades y las condiciones que el cargo exige para ser desempeñado de manera adecuada. Este análisis sirve para evaluar y clasificar los puestos de trabajo, con el propósito de realizar la estructura organizacional de la empresa.',
-    //imagenBannerPrincipal: require('@/assets/curso/portada/banner.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/banner.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/1.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/5.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-6'],
+        imagen: require('@/assets/curso/portada/6.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-7'],
+        imagen: require('@/assets/curso/portada/7.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-8'],
+        imagen: require('@/assets/curso/portada/8.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-9'],
+        imagen: require('@/assets/curso/portada/9.png'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
