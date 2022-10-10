@@ -12,7 +12,7 @@
         .col-6.col-lg-1.px-1
           .bg4.px-1
            figure
-             img(src='@/assets/curso/temas/Tema2/Icono1.svg', alt='Texto que describa la imagen').imagen-decorativa-1
+             img(src='@/assets/curso/temas/Tema2/Icono1.svg', alt='Texto que describa la imagen').imagen-deco
               
         .col-5.col-lg-11.px-5
           .cajon.colortexto.p-4.color-primario
