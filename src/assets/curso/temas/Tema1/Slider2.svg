@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="650" height="417" viewBox="0 0 650 417">
+  <defs>
+    <filter id="Rectángulo_40836" x="246" y="0" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-2" x="0" y="93" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-3" x="279.5" y="278.5" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-4" x="279" y="349" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-5" x="164" y="93" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-6" x="246.5" y="208" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-7" x="328" y="93" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-8" x="492" y="93" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_40836-9" x="410.5" y="208" width="158" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_132036" data-name="Grupo 132036" transform="translate(6332.146 8798)">
+    <g id="Grupo_128500" data-name="Grupo 128500" transform="translate(-7133.146 -11293)">
+      <g transform="matrix(1, 0, 0, 1, 801, 2495)" filter="url(#Rectángulo_40836)">
+        <rect id="Rectángulo_40836-10" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(255 6)" fill="#fff1ba"/>
+      </g>
+      <text id="Director_General" data-name="Director
+General" transform="translate(1126 2521.5)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-24.609" y="0">Director</tspan><tspan x="-23.786" y="18">General</tspan></text>
+    </g>
+    <g id="Grupo_128503" data-name="Grupo 128503" transform="translate(-7379.146 -11200)">
+      <g transform="matrix(1, 0, 0, 1, 1047, 2402)" filter="url(#Rectángulo_40836-2)">
+        <rect id="Rectángulo_40836-11" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(9 99)" fill="#fff1ba"/>
+      </g>
+      <text id="Administración" transform="translate(1126 2530.5)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-47.062" y="0">Administración</tspan></text>
+    </g>
+    <g id="Grupo_128504" data-name="Grupo 128504" transform="translate(-7099.646 -11014.5)">
+      <g transform="matrix(1, 0, 0, 1, 767.5, 2216.5)" filter="url(#Rectángulo_40836-3)">
+        <rect id="Rectángulo_40836-12" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(288.5 284.5)" fill="#fff1ba"/>
+      </g>
+      <text id="Auxiliar_de_compras" data-name="Auxiliar de 
+compras" transform="translate(1126 2522)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-34.251" y="0">Auxiliar de </tspan><tspan x="-27.368" y="18">compras</tspan></text>
+    </g>
+    <g id="Grupo_128505" data-name="Grupo 128505" transform="translate(-7100.146 -10944)">
+      <g transform="matrix(1, 0, 0, 1, 768, 2146)" filter="url(#Rectángulo_40836-4)">
+        <rect id="Rectángulo_40836-13" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(288 355)" fill="#fff1ba"/>
+      </g>
+      <text id="Auxiliar_de_compras-2" data-name="Auxiliar de 
+compras" transform="translate(1126 2522)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-34.251" y="0">Auxiliar de </tspan><tspan x="-27.368" y="18">compras</tspan></text>
+    </g>
+    <g id="Grupo_128507" data-name="Grupo 128507" transform="translate(-7215.146 -11200)">
+      <g transform="matrix(1, 0, 0, 1, 883, 2402)" filter="url(#Rectángulo_40836-5)">
+        <rect id="Rectángulo_40836-14" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(173 99)" fill="#fff1ba"/>
+      </g>
+      <text id="Marketing" transform="translate(1126 2530.5)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-31.319" y="0">Marketing</tspan></text>
+    </g>
+    <g id="Grupo_128510" data-name="Grupo 128510" transform="translate(-7132.646 -11085)">
+      <g transform="matrix(1, 0, 0, 1, 800.5, 2287)" filter="url(#Rectángulo_40836-6)">
+        <rect id="Rectángulo_40836-15" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(255.5 214)" fill="#fff1ba"/>
+      </g>
+      <text id="Eléctrica" transform="translate(1099 2530.5)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Eléctrica</tspan></text>
+    </g>
+    <g id="Grupo_128513" data-name="Grupo 128513" transform="translate(-7051.146 -11200)">
+      <g transform="matrix(1, 0, 0, 1, 719, 2402)" filter="url(#Rectángulo_40836-7)">
+        <rect id="Rectángulo_40836-16" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(337 99)" fill="#fff1ba"/>
+      </g>
+      <text id="Ingeniería" transform="translate(1126 2530.5)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-30.577" y="0">Ingeniería</tspan></text>
+    </g>
+    <g id="Grupo_128514" data-name="Grupo 128514" transform="translate(-6887.146 -11200)">
+      <g transform="matrix(1, 0, 0, 1, 555, 2402)" filter="url(#Rectángulo_40836-8)">
+        <rect id="Rectángulo_40836-17" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(501 99)" fill="#fff1ba"/>
+      </g>
+      <text id="Fabricación" transform="translate(1126 2530.5)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-36.244" y="0">Fabricación</tspan></text>
+    </g>
+    <g id="Grupo_128517" data-name="Grupo 128517" transform="translate(-6968.646 -11085)">
+      <g transform="matrix(1, 0, 0, 1, 636.5, 2287)" filter="url(#Rectángulo_40836-9)">
+        <rect id="Rectángulo_40836-18" data-name="Rectángulo 40836" width="140" height="50" rx="17" transform="translate(419.5 214)" fill="#fff1ba"/>
+      </g>
+      <text id="Mecánica" transform="translate(1095.5 2530.5)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Mecánica</tspan></text>
+    </g>
+    <line id="Línea_1" data-name="Línea 1" x1="0.166" y2="22" transform="translate(-6006.812 -8741.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_4" data-name="Línea 4" x1="164" transform="translate(-6252.646 -8719.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_6" data-name="Línea 6" y1="21" transform="translate(-6252.646 -8719.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_7" data-name="Línea 7" x2="164" transform="translate(-6088.646 -8719.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_10" data-name="Línea 10" y1="21" transform="translate(-5924.646 -8719.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_14" data-name="Línea 14" y2="44" transform="translate(-5924.646 -8648.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_17" data-name="Línea 17" x2="164" transform="translate(-5924.812 -8719.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_18" data-name="Línea 18" y1="21" transform="translate(-5760.812 -8719.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_19" data-name="Línea 19" y1="21" transform="translate(-6006.812 -8604.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_20" data-name="Línea 20" x1="82" transform="translate(-6006.812 -8604.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_21" data-name="Línea 21" y1="21" transform="translate(-5842.812 -8604.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_22" data-name="Línea 22" x2="82" transform="translate(-5924.812 -8604.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_23" data-name="Línea 23" y2="116" transform="translate(-6056.812 -8533.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_24" data-name="Línea 24" x1="13" transform="translate(-6056.812 -8488.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_25" data-name="Línea 25" x1="13" transform="translate(-6056.812 -8417.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
