@@ -35,14 +35,15 @@
                 .col-auto
                     img(src='@/assets/curso/temas/Tema1/ImagenA.png', alt='').img125
 
-              .row
-                .col-auto
-                    img(src='@/assets/curso/temas/Tema1/ImagenB.png', alt='').img125
+              .row.justify-content-center
+                .col-lg-5
+                    img(src='@/assets/curso/temas/Tema1/ImagenB.png', alt='')
                 .col-lg
-                  p.mt-5 Se puede clasificar en  centralizada o descentralizada, dependiendo del enfoque de la compañía, ya que cuando se habla de centralizada, toda la información relevante se concentra en personas que ejercen altos cargos dentro de la organización, mientras que la descentralizada se realiza por equipos de trabajo.
+                .col-lg-6
+                  p.mt-5.text-aling Se puede clasificar en  centralizada o descentralizada, dependiendo del enfoque de la compañía, ya que cuando se habla de centralizada, toda la información relevante se concentra en personas que ejercen altos cargos dentro de la organización, mientras que la descentralizada se realiza por equipos de trabajo.
 
-              .row
-                .col-lg
+              .row.justify-content-center
+                .col-lg.mt-5
                   p.mt-5 Compromiso y colaboración entre las  diferentes áreas de la empresa.
                 .col-auto
                     img(src='@/assets/curso/temas/Tema1/ImagenC.png', alt='').img125
@@ -61,8 +62,9 @@
               .row
                 .col-auto
                     img(src='@/assets/curso/temas/Tema1/ImagenF.png', alt='').img125
+                .col-lg-1
                 .col-lg
-                  p.mt-5 Dentro de las compañías se debe manejar no solamente el carácter de formalidad, sino también el de informalidad entre los compañeros que integran las instituciones, esto hace que el trabajo se haga más motivante.
+                  p.mt-5.text-aling Dentro de las compañías se debe manejar no solamente el carácter de formalidad, sino también el de informalidad entre los compañeros que integran las instituciones, esto hace que el trabajo se haga más motivante.
               
       .row.justify-content-start.align-items-center.mb-2        
         .col-lg-5

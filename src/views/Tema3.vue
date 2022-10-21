@@ -11,6 +11,8 @@
       .col-7.col-lg-3
         figure
           img(src='@/assets/curso/temas/Tema3/Imagen1.png', alt='Texto que describa la imagen')
+
+         
     
       .col-lg-9.mt-2
         p El significado del cargo dentro de la organización es la descripción de todas las funciones que el personal desempeña, cada cargo está ajustado con otros que estén  dentro de su nivel jerárquico. 
@@ -19,6 +21,10 @@
             p Para realizar una identificación de cargos adecuada, se debe tener en cuenta cuales son las especificaciones que tiene ese puesto de trabajo, esto es, las tareas que el empleado deberá desempeñar; cómo las debe realizar, a quién deberá reportar esas responsabilidades, es decir, quién es su jefe inmediato.
 
         p Por lo tanto, es importante la realización de una correcta identificación de los cargos para una organización, ya que contribuye a mejorar las relaciones con las personas y su puesto de trabajo. Esto mejora el ambiente laboral en la organización y optimiza la productividad dentro de los procesos de la empresa, lo que aporta buenos rendimientos económicos. 
+      
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        p Veamos cuales son las identificaciones del cargo: 
 
     .row.justify-content-center.align-items-center.mb-5.mt-5           
         .col-lg-10
@@ -73,7 +79,7 @@
           p Como ya se ha mencionado, es fundamental que las empresas puedan implementar las metodologías que se pueden aplicar para la clasificación de los cargos donde se permite conocer los procedimientos y las principales particularidades del puesto de trabajo.
     
           .cajon.colortexto.p-4.color-primario
-            p Los tipos de metodología son: método de observación directa, auto-observación, análisis de documentos, cuestionarios, entrevistas
+            p Los tipos de metodología son: método de observación directa, auto-observación, análisis de documentos, cuestionarios, entrevistas.
 
           p.mt-4 La importancia de implementar las metodologías que se pueden aplicar para la clasificación de los cargos radica en conocer los procedimientos y las principales particularidades del puesto de trabajo.
           
@@ -86,32 +92,32 @@
         .col-lg-8.sm-8
           .titulo-sexto.color-acento-contenido
             b Figura 1. 
-            span Técnicas e instrumentos para cargos 
+            i Técnicas e instrumentos para cargos 
 
       .row.justify-content-center.align-items-start.mb-2           
         .col-lg-11
-          img.img-a.img-t(src='@/assets/curso/temas/Tema3/Imagen4.svg', alt='Texto que describa la imagen')
+          img.img-a.img-t(src='@/assets/curso/temas/Tema3/img4.png', alt='Texto que describa la imagen')
 
       AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta_acordion").mt-4
-        .row(titulo="Método de observación directa:")
+        .row(titulo="Método de observación directa")
           .col-lg-12
-            p Método de observación directa: es el método de investigación más antiguo y posee toda una serie de ventajas y desventajas que deben tenerse en cuenta. La observación es la percepción consciente, sistemática y estable de los objetos, fenómenos y procesos con la finalidad de conocer algún aspecto de estos. En el estudio del trabajo se han desplegado toda una serie de técnicas e instrumentos en su ejecución, por ejemplo: fotografías, guías de observación y listas de comprobación. 
+            p Es el método de investigación más antiguo y posee toda una serie de ventajas y desventajas que deben tenerse en cuenta. La observación es la percepción consciente, sistemática y estable de los objetos, fenómenos y procesos con la finalidad de conocer algún aspecto de estos. En el estudio del trabajo se han desplegado toda una serie de técnicas e instrumentos en su ejecución, por ejemplo: fotografías, guías de observación y listas de comprobación. 
 
-        .row(titulo="Autoobservación:")
+        .row(titulo="Autoobservación")
           .col-lg-12
-            p la autoobservación y su posterior registro a través de los denominados diarios de trabajo, es una de las vías que pueden emplearse en el análisis de los cargos. Esto puede presentar varios inconvenientes, tales como la existencia de diferencia, entre los patrones, de qué se debería hacer y de qué se hace, así como una percepción inadecuada del fenómeno o poca motivación para realizar los registros. En el empleo de este método se recomienda confeccionar instrumentos que le sirvan de guía al trabajador en la recogida de información. 
+            p La autoobservación y su posterior registro a través de los denominados diarios de trabajo, es una de las vías que pueden emplearse en el análisis de los cargos. Esto puede presentar varios inconvenientes, tales como la existencia de diferencia, entre los patrones, de qué se debería hacer y de qué se hace, así como una percepción inadecuada del fenómeno o poca motivación para realizar los registros. En el empleo de este método se recomienda confeccionar instrumentos que le sirvan de guía al trabajador en la recogida de información. 
 
-        .row(titulo="Análisis de documentos:")
+        .row(titulo="Análisis de documentos")
           .col-lg-12
-            p el análisis de documentos se puede usar en el análisis, descripción y valoración con los documentos tales como manuales de trabajo, calificadores y otros. Generalmente existen en otras empresas cargos iguales o similares, manuales de funciones, calificadores de cargos, referencias sobre un cargo determinado u otra información que puede ser valiosa. 
+            p El análisis de documentos se puede usar en el análisis, descripción y valoración con los documentos tales como manuales de trabajo, calificadores y otros. Generalmente existen en otras empresas cargos iguales o similares, manuales de funciones, calificadores de cargos, referencias sobre un cargo determinado u otra información que puede ser valiosa. 
 
-        .row(titulo="Cuestionarios:")
+        .row(titulo="Cuestionarios")
           .col-lg-12
-            p son impresos que se entregan a los sujetos con la finalidad de que sean respondidos por estos. Los cuestionarios pueden estructurarse con preguntas abiertas, cerradas y mixtas. Estos pueden ser aplicados a los ocupantes del cargo, a sus jefes, a los ocupantes de otros cargos vinculados al cargo objeto de estudio, y a expertos en general, lo que sirve para obtener información, cruzar la información y buscar el acuerdo entre los diferentes criterios existentes. 
+            p Son impresos que se entregan a los sujetos con la finalidad de que sean respondidos por estos. Los cuestionarios pueden estructurarse con preguntas abiertas, cerradas y mixtas. Estos pueden ser aplicados a los ocupantes del cargo, a sus jefes, a los ocupantes de otros cargos vinculados al cargo objeto de estudio, y a expertos en general, lo que sirve para obtener información, cruzar la información y buscar el acuerdo entre los diferentes criterios existentes. 
         
-        .row(titulo="Entrevistas:")
+        .row(titulo="Entrevistas")
           .col-lg-12
-            p la entrevista es una de las técnicas clásicas empleadas por las diferentes disciplinas científicas y es una técnica por excelencia de las más usadas en las ciencias sociales. El estudio del trabajo con las entrevistas tiene como finalidad recoger información sobre los criterios de los entrevistados, y cruzarla, acerca de las principales características y exigencias de un cargo. Las entrevistas pueden ser aplicadas a los ocupantes del cargo, a sus jefes y expertos en general. 
+            p La entrevista es una de las técnicas clásicas empleadas por las diferentes disciplinas científicas y es una técnica por excelencia de las más usadas en las ciencias sociales. El estudio del trabajo con las entrevistas tiene como finalidad recoger información sobre los criterios de los entrevistados, y cruzarla, acerca de las principales características y exigencias de un cargo. Las entrevistas pueden ser aplicadas a los ocupantes del cargo, a sus jefes y expertos en general. 
 
       .cajon.colortexto.p-4.mt-4.color-primario
         p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.

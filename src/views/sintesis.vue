@@ -5,9 +5,9 @@
 
     .row.justify-content-center
       .col-lg-8.sm-8
-        .titulo-sexto.color-acento-contenido
-           b Gestión de mercado de productos turísticos
-           p Síntesis: El mercado turístico
+        .titulo-sexto.color-orange
+           b Gestión integral de procesos del talento humano
+           p Síntesis: Fundamentos de la estructura, cargos y perfiles de la organización
       .col-lg-2
           figure
             img(src="@/assets/curso/temas/g4.svg" width='89,61' height='86,7')

@@ -9,12 +9,12 @@
 
     .bg2
       .row.mt-4.px-5  
-        .col-6.col-lg-1.px-1
+        .col-lg-1.px-1.col-xs-12
           .bg4.px-1
            figure
              img(src='@/assets/curso/temas/Tema2/Icono1.svg', alt='Texto que describa la imagen').imagen-deco
               
-        .col-5.col-lg-11.px-5
+        .col-xs-12.col-lg-11.px-5
           .cajon.colortexto.p-4.color-primario
               p Ahora bien, todas las organizaciones necesitan establecer una estructura clara de los miembros que requiere y de las funciones que estos deben asumir en las diversas dependencias. Determinar los cargos y perfiles de una empresa facilita el mapeo organizacional y el panorama general de la función de cada puesto dentro de la organización. Además, se visualizan los objetivos a cumplir, los requisitos del perfil de quien desee ocupar el puesto y las relaciones entre los cargos. 
       
@@ -24,7 +24,7 @@
             figure
               img(src='@/assets/curso/temas/Tema1/Imagen2.svg', alt='Texto que describa la imagen').px-5
 
-      p.mt-4 Las organizaciones establecen diferentes cargos esenciales para los estamentos establecidos. Es por esto que cada cargo requiere de un perfil que permita desempeñar las funciones y responsabilidades exigidas. 
+      p.mt-5 Las organizaciones establecen diferentes cargos esenciales para los estamentos establecidos. Es por esto que cada cargo requiere de un perfil que permita desempeñar las funciones y responsabilidades exigidas. 
       p A continuación, lo invitamos a ver un video donde se profundiza sobre este tema.
 
       .row.mt-4
@@ -58,7 +58,8 @@
 
           .row.justify-content-center.my-lg-4
             .col-md-4.mb-2.mb-md-0.mt-5
-              p “Las competencias críticas (en inglés, core competencies) son aquellas que posibilitan desarrollar un desempeño exitoso en diferentes contextos.  Se pueden clasificar en competencias técnicas, metodológicas, sociales y participativas.”  (G. Bunk, 1994, s.p)
+              p “Las competencias críticas (en inglés, 
+                i core competencies) son aquellas que posibilitan desarrollar un desempeño exitoso en diferentes contextos.  Se pueden clasificar en competencias técnicas, metodológicas, sociales y participativas.”  (G. Bunk, 1994, s.p)
             .col-md-1
             .col-md-5.mt-5
               figure
