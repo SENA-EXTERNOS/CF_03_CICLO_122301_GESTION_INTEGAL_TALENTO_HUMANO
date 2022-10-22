@@ -223,7 +223,7 @@ export default {
     },
     {
       referencia:
-        'Editorial Grudemi (2018) Estructura organizacional. Recuperado de Enciclopedia Econòmica 2017-2022 ',
+        'Editorial Grudemi (2018) <em>Estructura organizacional.</em> Recuperado de Enciclopedia Econòmica 2017-2022 ',
       link: 'https://enciclopediaeconomica.com/estructura-organizacional/ ',
     },
     {

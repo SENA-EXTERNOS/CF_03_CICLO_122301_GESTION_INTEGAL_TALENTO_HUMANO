@@ -59,7 +59,8 @@
           .row.justify-content-center.my-lg-4
             .col-md-4.mb-2.mb-md-0.mt-5
               p “Las competencias críticas (en inglés, 
-                i core competencies) son aquellas que posibilitan desarrollar un desempeño exitoso en diferentes contextos.  Se pueden clasificar en competencias técnicas, metodológicas, sociales y participativas.”  (G. Bunk, 1994, s.p)
+                i core competencies) 
+                | son aquellas que posibilitan desarrollar un desempeño exitoso en diferentes contextos.  Se pueden clasificar en competencias técnicas, metodológicas, sociales y participativas.”  (G. Bunk, 1994, s.p)
             .col-md-1
             .col-md-5.mt-5
               figure

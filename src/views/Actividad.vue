@@ -9,7 +9,7 @@
       h1 Actividad didáctica
 
     .titulo-segundo.color-acento-contenido
-       h2 Falso/verdadero
+       h2 Gestión integral del talento humano
 
     .row
       .col-2
