@@ -2,17 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-    .row.justify-content-center
-      .col-lg-8.sm-8
-        .titulo-sexto.color-orange
-           b Gestión integral de procesos del talento humano
-           p Síntesis: Fundamentos de la estructura, cargos y perfiles de la organización
-      .col-lg-2
-          figure
-            img(src="@/assets/curso/temas/g4.svg" width='89,61' height='86,7')
-
-      p.mt-5.col-lg-10 En el siguiente mapa conceptual podemos encontrar los elementos claves que conforman este componente formativo y las metodologías aplicadas a los cargos.  Aquí se sintetizan los abordajes estudiados con el objetivo de ser una herramienta de análisis y conclusión de este material educativo. 
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5.mt-5

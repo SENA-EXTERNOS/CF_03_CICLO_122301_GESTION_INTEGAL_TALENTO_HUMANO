@@ -24,7 +24,7 @@
       
     .row.justify-content-center.align-items-center
       .col-lg-10
-        p Veamos cuales son las identificaciones del cargo: 
+        p Veamos los procesos que intervienen en las identificaciones del cargo:  
 
     .row.justify-content-center.align-items-center.mb-5.mt-5           
         .col-lg-10
@@ -86,12 +86,13 @@
         .col-lg-4.my-3
           img.img-a.img-t(src='@/assets/curso/temas/Tema3/Imagen3.png', alt='Texto que describa la imagen')
       
-      p.mt-4 De acuerdo con lo anterior, se detallan las técnicas e instrumentos para los cargos. Todos los planteamientos expuestos a continuación fueron tomados de Zayas Agüero, P. M., 2011, p.85.
+      p.mt-4 De acuerdo con lo anterior, se detallan las técnicas e instrumentos para los cargos. Todos los planteamientos expuestos a continuación, fueron tomados de Zayas Agüero (2011, p.85):
 
       .row.justify-content.mt-4
         .col-lg-8.sm-8
           .titulo-sexto.color-acento-contenido
-            b Figura 1. 
+            b Figura 1
+            br 
             i Técnicas e instrumentos para cargos 
 
       .row.justify-content-center.align-items-start.mb-2           
@@ -119,8 +120,10 @@
           .col-lg-12
             p La entrevista es una de las técnicas clásicas empleadas por las diferentes disciplinas científicas y es una técnica por excelencia de las más usadas en las ciencias sociales. El estudio del trabajo con las entrevistas tiene como finalidad recoger información sobre los criterios de los entrevistados, y cruzarla, acerca de las principales características y exigencias de un cargo. Las entrevistas pueden ser aplicadas a los ocupantes del cargo, a sus jefes y expertos en general. 
 
-      .cajon.colortexto.p-4.mt-4.color-primario
-        p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+    .row.justify-content-center.align-items-center.mt-5           
+      .col-lg-10
+        .cajon.colortexto.p-4.mt-4.color-primario
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 
 </template>

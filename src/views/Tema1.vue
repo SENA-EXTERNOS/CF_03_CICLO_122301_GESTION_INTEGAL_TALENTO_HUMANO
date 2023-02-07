@@ -22,11 +22,10 @@
               p La estructura organizacional son las tareas y actividades que se ejecutan en una compañía, las cuales son reunidas en diferentes secciones o departamentos que tiene la empresa.
               span.mt-5.d-block
         
-              p La importancia de este  modelo es estructurar correctamente las tareas de cada área, para de esta forma cumplir con los objetivos que la organización quiere cumplir. 
+              p La importancia de este modelo es la de estructurar correctamente las tareas de cada área para, de esta forma, cumplir con los objetivos que la organización quiere alcanzar. El esquema se representa gráficamente a través de un organigrama. Revise las características de la estructura organizacional, que se destacan a continuación:
         
-        p.mt-4 El esquema se  representa gráficamente a través de un organigrama.  Se muestran las características de la estructura organizacional, allí se destaca lo siguiente:
 
-        .row.justify-content-center
+        .row.justify-content-center.mt-5
           .col-lg-30
             PasosA.color-acento-contenido.mb-5(tipo="l")
               .row
@@ -79,9 +78,11 @@
 
         .col-lg-11.px-5
           .cajon.color-acento-contenido.p-4
-             p Es fundamental que toda empresa, sin importar su tamaño, cuente con una estructura organizacional que esté diseñada a partir de los objetivos que se desean alcanzar. Además de permitir crecer y ser rentable, esta estructura ayudará a identificar los talentos que necesita la empresa y, así contar con el personal suficiente para alcanzar los objetivos establecidos y mejorar la eficiencia operativa. (Editorial Grudemi, 2018, s.p)
+             p Es fundamental que toda empresa, sin importar su tamaño, cuente con una estructura organizacional que esté diseñada a partir de los objetivos que se desean alcanzar.
+             p.mb-0 Además de permitir crecer y ser rentable, esta estructura ayudará a identificar los talentos que necesita la empresa, y así contar con el personal suficiente para alcanzar los objetivos establecidos y mejorar la eficiencia operativa. 
 
-        p.mt-4.px-1  Existen diferentes formas de organizar el talento humano en una empresa, los esquemas más usados son: lineal, funcional, de staff y matricial. A continuación, se detalla cada uno de estos.
+
+        p.mt-4.px-1 Existen diferentes formas de organizar el talento humano en una empresa; los esquemas más usados son: lineal, funcional, de <i>staff </i>y matricial. A continuación, se detalla cada uno de estos:
       
       .tarjeta.tarjeta-morada.p-3
         SlyderA(tipo="b").bg5

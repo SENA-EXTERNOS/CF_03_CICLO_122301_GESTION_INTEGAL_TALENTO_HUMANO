@@ -124,30 +124,27 @@ export default {
   complementario: [
     {
       tema: 'Estructura organizacional',
-      referencia:
-        'Editorial Grudemi (2018) <em>Estructura organizacional</em>. Recuperado de Enciclopedia Econòmica 2017-2022  https://enciclopediaeconomica.com/estructura-organizacional/',
+      referencia: 'Editorial Grudemi (2018) <i>Estructura organizacional</i>.',
       tipo: 'Artículo',
       link: 'https://enciclopediaeconomica.com/',
     },
     {
       tema: 'Estructura organizacional',
       referencia:
-        'Aprendiz de mercadotecnia. (17 de mayo de 2020). ¿Qué es una estructura organizacional? 4 estructuras organizacionales que debes conocer [Archivo de video].Youtube.  https://www.youtube.com/watch?v=0oXlq0NXmyY&t=211s',
+        'Aprendiz de mercadotecnia. (2020). ¿Qué es una estructura organizacional? <i>4 estructuras organizacionales que debes conocer</i>.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=0oXlq0NXmyY&t=211s&ab_channel=AprendizdeMercadotecnia',
+      link: 'https://www.youtube.com/watch?v=0oXlq0NXmyY&t=211s',
     },
     {
       tema: 'Identificación del cargo',
-      referencia:
-        'Edulentos regiones. (07 de octubre de 2019). El perfil del puesto [Archivo de video]. Youtube.  https://www.youtube.com/watch?v=URHFdurlnxc',
+      referencia: 'Edulentos regiones. (2019). El perfil del puesto.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=URHFdurlnxc',
     },
     {
-      tema: 'Identificación del cargo ',
+      tema: 'Identificación del cargo',
       referencia:
-        'Zayas Agüero, P. M; Grave de Peralta, R. M. (2011) <em> La función de la organización </em> y el análisis y descripción, las especificaciones, la <em>matriz para elaborar el perfil de las competencias de los cargos u</em> ocupaciones https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/51730?fs_q=LA__FUNCI%C3%93N__DE__LA__ORGANIZACI%C3%93N',
+        'Zayas Agüero, P. M. y Grave de Peralta, R. M. (2011) <i>La función de la organización y el análisis y descripción, las especificaciones, la matriz para elaborar el perfil de las competencias de los cargos u ocupaciones</i>.',
       tipo: 'Manual',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/51730?fs_q=LA__FUNCI%C3%93N__DE__LA__ORGANIZACI%C3%93N__&prev=fs',
@@ -208,27 +205,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Boyatzis, R.E. (1982): <em>The Competent Manager.</em> New York: Ed. John Wiley & Sons',
-      link: '',
+        'Boyatzis, R. E. (1982). <i>The Competent Manager</i>. New York: Ed. John Wiley & Sons.',
     },
     {
       referencia:
-        'Bunk, G. (1994): <em>La transmisión de las competencias en la formación y perfeccionamiento profesionales en la RFA.</em> Ed. Revista CEDEFOP No. 1.',
-      link: '',
+        'Bunk, G. (1994). La transmisión de las competencias en la formación y perfeccionamiento profesionales en la RFA. <i>Ed. Revista CEDEFOP</i>, (1).',
     },
     {
       referencia:
-        'Chiavenato, I. (1986): <em>Introducción a la teoría general de la administración.</em> México: Ed. Mc Graw Hill',
-      link: '',
+        'Chiavenato, I. (1986): <i>Introducción a la teoría general de la administración<i>. Ed. Mc Graw Hill.',
+    },
+    {
+      referencia: 'Editorial Grudemi. (2018) <i>Estructura organizacional</i>.',
+      link: 'https://enciclopediaeconomica.com/estructura-organizacional/',
     },
     {
       referencia:
-        'Editorial Grudemi (2018) <em>Estructura organizacional.</em> Recuperado de Enciclopedia Econòmica 2017-2022 ',
-      link: 'https://enciclopediaeconomica.com/estructura-organizacional/ ',
-    },
-    {
-      referencia:
-        'Zayas Agüero, P. M; Grave de Peralta, R. M. (2011): <em>La función de la organización y el análisis y descripción, las especificaciones, la matriz para elaborar el perfil de las </em>competencias de los cargos u ocupaciones. Recuperado de',
+        'Zayas Agüero, P. M. y Grave de Peralta, R. M. (2011)<i> La función de la organización y el análisis y descripción, las especificaciones, la matriz para elaborar el perfil de las competencias de los cargos u ocupaciones.</i>',
       link: 'https://www.academia.net.co/',
     },
   ],

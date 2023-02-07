@@ -16,23 +16,19 @@
               
         .col-xs-12.col-lg-11.px-5
           .cajon.colortexto.p-4.color-primario
-              p Ahora bien, todas las organizaciones necesitan establecer una estructura clara de los miembros que requiere y de las funciones que estos deben asumir en las diversas dependencias. Determinar los cargos y perfiles de una empresa facilita el mapeo organizacional y el panorama general de la función de cada puesto dentro de la organización. Además, se visualizan los objetivos a cumplir, los requisitos del perfil de quien desee ocupar el puesto y las relaciones entre los cargos. 
+              p.mb-0 Ahora bien, todas las organizaciones necesitan establecer una estructura comprensible, de los miembros que precisa y de las funciones que estos deben asumir, en las distintas dependencias. Determinar los cargos y perfiles de una empresa, facilita el mapeo organizacional y el panorama general de la función de cada puesto, dentro de la organización. Además, se visualizan los objetivos a cumplir, los requisitos del perfil del individuo que desee ocupar el puesto y las relaciones entre los cargos:
       
-      .row.justify-content-center.align-items-center.my-4
-        .col-lg-8.d-flex.justify-content-center
-          .tarjeta.tarjeta-acento-contenido.col-md-8.px-5
-            figure
-              img(src='@/assets/curso/temas/Tema1/Imagen2.svg', alt='Texto que describa la imagen').px-5
+        img.img-a.img-t.mt-5(src='@/assets/curso/temas/Tema2/1.svg', alt='Texto que describa la imagen')
 
-      p.mt-5 Las organizaciones establecen diferentes cargos esenciales para los estamentos establecidos. Es por esto que cada cargo requiere de un perfil que permita desempeñar las funciones y responsabilidades exigidas. 
-      p A continuación, lo invitamos a ver un video donde se profundiza sobre este tema.
+      p.mt-5 Las organizaciones establecen diferentes cargos esenciales para los estamentos establecidos. Es por esto que cada puesto requiere de un perfil que permita desempeñar las funciones y responsabilidades exigidas. 
+      p A continuación, lo invitamos a ver un video donde se profundiza sobre este tema:
 
       .row.mt-4
         .col-lg-8
         figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption   VIDEO
+        
       
       .row.justify-content-start.align-items-center.mb-5.mt-4           
         .col-lg-5
@@ -44,7 +40,7 @@
             .cajon.color-acento-contenido.p-4
               p Para elegir los cargos y perfiles, como se mencionó anteriormente es fundamental identificar las competencias. Estas son todas las habilidades, aptitudes y destrezas que adquiere la persona a través de su formación, tanto personal como profesional. Existen diferentes autores que han trabajado en la identificación de los principales tipos de competencias.
 
-      p.mt-4 A continuación, se destacan los autores que definen el término de competencia.
+      p.mt-4 Los autores que definen el término de competencia, son:
 
       .tarjeta.tarjeta-morada.p-3
         SlyderA(tipo="b").bg5
