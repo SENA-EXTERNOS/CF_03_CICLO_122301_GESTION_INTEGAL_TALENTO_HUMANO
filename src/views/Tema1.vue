@@ -106,7 +106,7 @@
 
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-4.mb-2.mb-md-0
-              h3.mb-5 La estructura organizacional de staff
+              h3.mb-5 La estructura organizacional de #[em staff]
               p En este tipo de esquema se tiene en cuenta el asesoramiento de consultores o asesores externos. Por lo tanto los integrantes de la empresa realizan las actividades con compañías externas. 
             .col-md-1
             .col-md-5.mt-5

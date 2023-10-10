@@ -93,7 +93,7 @@
           .titulo-sexto.color-acento-contenido
             b Figura 1
             br 
-            i Técnicas e instrumentos para cargos 
+            p #[em Técnicas e instrumentos para cargos] 
 
       .row.justify-content-center.align-items-start.mb-2           
         .col-lg-11

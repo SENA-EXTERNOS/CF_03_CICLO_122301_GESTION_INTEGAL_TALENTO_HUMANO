@@ -126,7 +126,7 @@ export default {
       tema: 'Estructura organizacional',
       referencia: 'Editorial Grudemi (2018) <i>Estructura organizacional</i>.',
       tipo: 'Artículo',
-      link: 'https://enciclopediaeconomica.com/',
+      link: 'https://enciclopediaeconomica.com/estructura-organizacional/',
     },
     {
       tema: 'Estructura organizacional',
@@ -177,7 +177,7 @@ export default {
         'divide la autoridad en grupos de trabajo funcionales que, generalmente, responden a un proyecto determinado.',
     },
     {
-      termino: 'Estructura de staff',
+      termino: 'Estructura de <em>staff</em>',
       significado:
         'combina las relaciones y decisiones de autoridad con la ayuda y el asesoramiento de agentes externos a la organización, tales como consultores o asesores. Así, dentro de este tipo de estructura se lleva a cabo la subcontratación de actividades, a través de la cual los integrantes deben desarrollar sus tareas con empresas ajenas.',
     },
@@ -222,7 +222,7 @@ export default {
     {
       referencia:
         'Zayas Agüero, P. M. y Grave de Peralta, R. M. (2011)<i> La función de la organización y el análisis y descripción, las especificaciones, la matriz para elaborar el perfil de las competencias de los cargos u ocupaciones.</i>',
-      link: 'https://www.academia.net.co/',
+      link: 'https://www.eumed.net/libros-gratis/2011e/1104/index.htm',
     },
   ],
   creditos: {
